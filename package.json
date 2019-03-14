@@ -1,10 +1,9 @@
 {
-<<<<<<< HEAD
   "name": "behappy",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Alessandro",
+    "name": "Alessandro Medeiros",
     "email": "alessandrosmed@gmail.com"
   },
   "engines": {
@@ -14,39 +13,18 @@
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-=======
-  "name": "behappywith.me",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
->>>>>>> cf4cd4f75279baf19817b99161c96f3623585b24
     "react-scripts": "2.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
     "eject": "react-scripts eject",
     "heroku-postbuild": "echo Skip build on Heroku"
-=======
-    "eject": "react-scripts eject"
->>>>>>> cf4cd4f75279baf19817b99161c96f3623585b24
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-<<<<<<< HEAD
   "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
   "heroku-run-build-script": true
-=======
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
->>>>>>> cf4cd4f75279baf19817b99161c96f3623585b24
 }
